@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Apple Watch Series 100",
+    "model": "Series 100",
+    "price": 399
+  },
+  {
+    "id": 2,
+    "name": "Galaxy Watch 6",
+    "model": "Galaxy Watch 6",
+    "price": 299
+  },
+  {
+    "id": 3,
+    "name": "Fenix 7",
+    "model": "Fenix 7",
+    "price": 699
+  },
+  {
+    "id": 4,
+    "name": "Charge 6",
+    "model": "Charge 6",
+    "price": 179
+  },
+  {
+    "id": 5,
+    "name": "GTR 4",
+    "model": "GTR 4",
+    "price": 199
+  }
+]
